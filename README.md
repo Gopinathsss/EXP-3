@@ -59,8 +59,9 @@ switch2.
 <img width="854" height="487" alt="564900362-7cd31407-166a-49dd-b39c-cd317e628c56" src="https://github.com/user-attachments/assets/212c3580-0752-46aa-a766-9b25729788e1" />
 <img width="854" height="488" alt="564900559-7ace555b-82c5-45b0-ae66-d92aeb39b6f2" src="https://github.com/user-attachments/assets/20a1662e-798b-430e-a85b-2ee658b72fdf" />
 <img width="851" height="488" alt="564900845-b9082155-7c65-48d2-9188-5f6ad9e28451" src="https://github.com/user-attachments/assets/cfbd250e-dc6e-4c21-ab62-0068259e530c" />
-<img width="853" height="486" alt="564901068-326bc1fa-1c44-45f1-9d6a-78cf06620eed" src="https://github.com/user-attachments/assets/18f8818f-6b41-4c4d-ab85-7e8346bd8556" />
-![564901280-318e5def-78e8-448a-84d4-87ddd2aa836c](https://github.com/user-attachments/assets/a0a9a5c4-3fc2-442c-b3ba-b3072deaacfb)
+<img width="853" height="486" alt="564901068-326bc1fa-1c44-45f1-9d6a-78cf06620eed" src="https://github.com/user-attachments/assets/10644ac2-7a49-487b-b80e-fdc5ed5b2d11" />
+
+![564901280-318e5def-78e8-448a-84d4-87ddd2aa836c](https://github.com/user-attachments/assets/ed6ccb98-3e38-4bfc-b696-0e123eecdef7)
 
 
 ### Tabulation:2
